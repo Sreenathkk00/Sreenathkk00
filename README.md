@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/sreenathkk00" target="blank"><img src="https://img.shields.io/twitter/follow/sreenath?logo=twitter&style=for-the-badge" alt="sreenath" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce_project](https://github.com/Sreenathkk00/Ecommerce_project)
 
 - 💬 Ask me about **Python**
 
