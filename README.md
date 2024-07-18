@@ -1,5 +1,7 @@
 
-<h1 align="left">Hi 👋, <br>I'm Sreenath K K</h1>
+
+
+<img src="https://github.com/user-attachments/assets/2afbfdc1-aa99-47fb-97b0-329073362651" alt="Blue Gradient Modern Youtube Intro" width="1000px" height="250px">
 <h3 align="left">A passionate Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenathkk00&label=Profile%20views&color=0e75b6&style=flat" alt="sreenathkk00" /> </p>
